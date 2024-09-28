@@ -5,7 +5,7 @@
   font-family: sans-serif;
 }
 .main-div{
-	width: 100vw;
+	width: 200vw;
 	min-height: 100vh;
 	display: flex;
 	place-items: center;
